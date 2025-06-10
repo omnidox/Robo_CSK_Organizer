@@ -128,8 +128,6 @@ This innovative approach enables the robot to **dynamically prioritize** context
 - **Advanced categorization** capabilities for ambiguous objects
 - **Multi-path analysis** for optimal decision making in uncertain contexts
 
-## Technical Implementation
-
 ### **Advanced Knowledge Graph Processing**
 
 ```python
@@ -294,18 +292,6 @@ source /opt/ros/<version>/setup.bash
 4. Configure the system:
 - Update `cog.yaml` with your specific settings
 - Adjust `Rafael_setup.rviz` for your robot configuration
-
-## Usage Examples
-
-### Basic Object Organization
-```bash
-python Webcam_local_robo.py --config-file configs/Detic_LCOCOI21k_CLIP_SwinB_896b32_4x_ft4x_max-size.yaml --webcam 0 --vocabulary custom --custom_vocabulary toy,stuffed_animal,ball
-```
-
-### Context-Aware Organization
-```bash
-python demo6.py --context playroom --focus toys
-```
 
 ## Usage Examples
 
