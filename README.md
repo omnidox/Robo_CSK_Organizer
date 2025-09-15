@@ -404,7 +404,7 @@ For questions, collaborations, or support, please contact:
 - GitHub: [omnidox](https://github.com/omnidox)
 
 ### Dr. Aparna S. Varde
-- Email: vardea@montclair.edu
+- Email: apva@mmmi.sdu.sdk
 - Position: Associate Professor, School of Computing
 - Role: Associate Director, Clean Energy and Sustainability Analytics Center (CESAC)
 
